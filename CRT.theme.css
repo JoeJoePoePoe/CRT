@@ -22,7 +22,7 @@
     --crt-stripe-dark-color:    rgba(0, 0, 0, 0.1);
 
     /* ⛐ This effect is performance-intensive. */
-    --crt-scanline:             block;
+    --crt-scanline:             none;
     --crt-scanline-speed:       3s;
     --crt-scanline-color:       rgba(0, 0, 0, 0.5);
     --crt-scanline-direction:   normal;
